@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prof-card/static/css/main.5288e089.css",
+    "main.js": "/prof-card/static/js/main.9615dad5.js",
+    "index.html": "/prof-card/index.html",
+    "main.5288e089.css.map": "/prof-card/static/css/main.5288e089.css.map",
+    "main.9615dad5.js.map": "/prof-card/static/js/main.9615dad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5288e089.css",
+    "static/js/main.9615dad5.js"
+  ]
+}
